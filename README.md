@@ -33,5 +33,5 @@
 
  ### Contributors
 
- Refactoring completed earnestly by Andrew Secore
+ Refactoring earnestly completed by Andrew Secore
 
