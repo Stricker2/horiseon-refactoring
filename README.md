@@ -25,13 +25,13 @@
 
  * Consolidated rules for the "content" and "benefits" sections which were unnecessarily split into several different rules.
 
- ### Webpage
+ ## Webpage
 
  <img src="./Develop/assets/images/Horiseon-webpage.png" />
 
- * Link: https://stricker2.github.io/horiseon-refactoring/
+ Link: https://stricker2.github.io/horiseon-refactoring/
 
- ### Contributors
+ ## Contributors
 
  Refactoring earnestly completed by Andrew Secore
 
